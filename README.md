@@ -1,2 +1,0 @@
-# PARCELPLAYGROUND
-Created with CodeSandbox
